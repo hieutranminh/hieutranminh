@@ -17,7 +17,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:hieu.tranminhhcm@gmail.com?subject=subject&cc=cc@example.com">
+  <a href="mailto:hieu.tranminhhcm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/minh-hieu-tran-91539421a/">
