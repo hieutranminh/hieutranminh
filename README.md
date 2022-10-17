@@ -20,7 +20,11 @@
   <a href="mailto:hieu.tranminhhcm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/minh-hieu-tran-91539421a/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  <a href="https://hieutranminh.github.io/">
+    <img src="https://img.shields.io/badge/Profile-02b875?style=for-the-badge&logo=personio&logoColor=white" alt="Profile Badge"/>
   </a>
+</div>
+
+<div id="badges" align="center">
+   <img src="https://komarev.com/ghpvc/?username=hieutranminh&style=for-the-badge&color=ffbc00" alt="Profile views"/>
 </div>
