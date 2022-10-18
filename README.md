@@ -28,3 +28,6 @@
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=hieutranminh&style=for-the-badge&color=ffbc00" alt="Profile views"/>
 </div>
+
+&nbsp;
+![-----------------------------------------------------](https://via.placeholder.com/1200x4/80eec0/80eec0.png)
