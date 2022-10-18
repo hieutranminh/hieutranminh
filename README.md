@@ -34,3 +34,18 @@
 </div>
 
 ![-----------------------------------------------------](images/line.png)
+
+<div align="center">
+  <i>The framework JS I am currently working for is</i>
+</div>
+&nbsp;
+<div align="center">
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue JS&logo=vue.js&labelColor=FFFFFF&color=42b883&label=%20" alt="Star Badge"/>
+  </a>
+  <a href="https://nuxtjs.org/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt JS&logo=nuxt.js&labelColor=FFFFFF&color=00DC82&label=%20" alt="Star Badge"/>
+  </a>
+</div>
+&nbsp;
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="1200"/>
