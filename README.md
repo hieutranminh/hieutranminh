@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <h1 align="center">🖐 Hello everyone ! I'm Hieu 😁</h1>
-  <p align="center">🇻🇳 I'm Front-End Developer in Vietnam 🇻🇳</p>
+  <p align="center">
+    <img src="images/icon-vietnam.png" align="center"/>  
+    &nbsp;I'm Front-End Developer in Vietnam&nbsp;
+    <img src="images/icon-vietnam.png" align="center"/> 
+  </p>
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300"/>
 </div>
 &nbsp;
