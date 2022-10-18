@@ -29,5 +29,4 @@
    <img src="https://komarev.com/ghpvc/?username=hieutranminh&style=for-the-badge&color=ffbc00" alt="Profile views"/>
 </div>
 
-&nbsp;
 ![-----------------------------------------------------](images/line.png)
