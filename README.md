@@ -36,7 +36,7 @@
 ![-----------------------------------------------------](images/line.png)
 
 <div align="center">
-  <i>The framework JS I am currently working for is</i>
+  <em><b>The framework JS I am currently working for is</b></em>
 </div>
 &nbsp;
 <div align="center">
@@ -49,3 +49,15 @@
 </div>
 &nbsp;
 <img src="images/img-comic.png" width="1400"/>
+
+![-----------------------------------------------------](images/line.png)
+
+### 👨‍💻 About Me :
+### 🐾 Future Direction :
+### 🛠️ Languages and Tools :
+&nbsp;
+<div align="center">
+  <a href="https://www.buymeacoffee.com/hieutranminh" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Coffee"/>
+  </a>
+</div>
