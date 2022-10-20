@@ -48,4 +48,4 @@
   </a>
 </div>
 &nbsp;
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="1200"/>
+<img src="images/img-comic.png" width="1400"/>
