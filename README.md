@@ -53,7 +53,13 @@
 ![-----------------------------------------------------](images/line.png)
 
 ### 👨‍💻 About Me :
+- 🇻🇳 I'm working as a Front-End Developer in Vietnam
+- 💯 I'm always careful at work to help my projects more qualified before sending over to my customers.
+- 🧠 I really like creative things about UI/UX for website and application
+- 🍀 I always wish to develop myself at work and I hope to learn more skills from experienced people.
 ### 🐾 Future Direction :
+- ⭐ In the future , i would like to become a Team leader to inspire and share for everyone about technology as well as all the knowledge and experience that I have learned from others
+- ⭐ I would like to bring more value and best quality to future projects.
 ### 🛠️ Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
