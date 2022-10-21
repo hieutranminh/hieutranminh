@@ -78,6 +78,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>&nbsp;
 </div>
+&nbsp;
 
 ![-----------------------------------------------------](images/line.png)
 <div align="center">
