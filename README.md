@@ -80,6 +80,9 @@
 </div>
 
 ![-----------------------------------------------------](images/line.png)
+<div align="center">
+    <img src="images/signature.gif" width="190"/>
+</div>
 &nbsp;
 <div align="center">
   <a href="https://www.buymeacoffee.com/hieutranminh" target="_blank">
